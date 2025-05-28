@@ -1,15 +1,24 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+
 <h2 align="left">Hi 👋! I'm Youssef.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yrehim7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=yrehim7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm a Student from Egypt. I work with a lot of stuff, for example:</p>
+<p align="left">I'm Python Developer from Egypt <br><br>- 🔭 I’m currently automative technologies and informatics student in Germany <br>- 📚 I'm currently learning and dive more on Data Engineer field<br>
+
+---
+
+<h3 align="left">🛠 Language and tools</h3>
+
 
 ###
 
@@ -33,9 +42,8 @@
   <img src="https://www.mathworks.com/favicon.ico" height="30" alt="matlab logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="30" alt="notion logo" />
- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-<img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -54,24 +62,37 @@
 
 ###
 
-###
+---
 
-<div align="left">
-  <a href="mailto:yrehim7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-
+<h3 align="left">🔥  My Stats</h3>
 
 ###
-
-<p align="left">Hope that something in my GitHub Profile can help you with whatever you need. Thank you for visiting!</p>
-
+![](https://github-readme-stats.vercel.app/api?username=yrehim7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yrehim7&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yrehim7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yrehim7/count.svg?"  />
-</div>
 
-###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
