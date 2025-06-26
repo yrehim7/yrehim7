@@ -13,7 +13,7 @@
 ###
 <p align="left">I'm passionate about Big Data and the insights we can gain from it with a background in Automation Technology & Informatics and hands on experience in support, quality assurance, and data-driven projects, I've built a solid foundation in the data field. I'm especially interested in data engineering and analytics<br>
 <br>🔭 I’m currently automative technologies and informatics student in Germany 
-<br>📚 I'm currently learning and dive more on Data Engineer field
+<br>📚 I'm currently diving more and more on Data Engineer field
 
 ### Connect with me  
 <div align="center">
@@ -80,28 +80,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=yrehim7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yrehim7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
