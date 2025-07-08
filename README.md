@@ -42,8 +42,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="30" alt="databricks logo" />
   <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/11/Snowflake-Emblem.png" height="30" alt="Snowflake logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
