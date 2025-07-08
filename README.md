@@ -11,7 +11,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">I'm passionate about Big Data and the insights we can gain from it with a background in Automation Technology & Informatics and hands on experience in support, quality assurance, and data-driven projects, I've built a solid foundation in the data field. I'm especially interested in data engineering and analytics<br>
+<p align="left">I'm passionate about Big Data and the insights i can gain from it with a background in Automation Technology & Informatics and hands on experience in support, quality assurance, and data-driven projects, I've built a solid foundation in the data field. I'm especially interested in data engineering and analytics<br>
 <br>🔭 I’m currently automative technologies and informatics student in Germany 
 <br>📚 I'm currently diving more and more on Data Engineer field
 
@@ -39,6 +39,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sql server logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="30" alt="Databricks logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="30" alt="Snowflake logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
