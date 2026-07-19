@@ -11,8 +11,8 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">I'm passionate about Big Data and the insights i can gain from it with a background in Automative Technology and & Computer Science and hands on experience in support, quality assurance, and data-driven projects, I've built a solid foundation in the data field. I'm especially interested in data engineering and analytics<br>
-<br>🔭 I’m currently automative technologies and informatics student in Germany 
+<p align="left">I'm passionate about Big Data and the insights i can gain from it with a background in Automation Engineering and & Computer Science and hands on experience in support, quality assurance, and data-driven projects, I've built a solid foundation in the data field. I'm especially interested in data engineering and analytics<br>
+<br>🔭 I’m currently fresh graduate automation engineering and Computer Science 
 <br>📚 I'm currently keep diving more and more on Data Engineer field
 
 ### Connect with me  
